@@ -1,0 +1,17 @@
+.navegacion {
+  background-color: #1d29d3; }
+  .navegacion .divnav a {
+    color: #dbc2c2; }
+
+main section .card-tres h5 {
+  color: #2e0ca8; }
+
+main section .card-tres p {
+  color: #066e06; }
+
+footer {
+  background-color: #1b0404; }
+  footer .divpie p {
+    color: #066e06; }
+  footer .divpie a {
+    color: #dbc2c2; }

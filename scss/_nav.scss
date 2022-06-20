@@ -1,0 +1,14 @@
+$bg-fondo: #1d29d3;
+$bg-fondo-2: #1b0404;
+$texto: #2e0ca8;
+$texto-2: #066e06;
+$texto-3: #dbc2c2;
+
+.navegacion{
+    background-color: $bg-fondo;
+    .divnav{
+        a{
+            color: $texto-3;
+        }
+    }
+}
